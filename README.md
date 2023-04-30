@@ -1,4 +1,4 @@
-# Mobile-Price-Predictor
+# BuyPhone: Mobile-Price-Predictor
 
 A smartphone price predictor which predicts the price of the
 phone related to given configuration by the user. 
